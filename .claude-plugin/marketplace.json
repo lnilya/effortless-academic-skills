@@ -1,0 +1,15 @@
+{
+  "name": "effortless-academic-skills",
+  "owner": {
+    "name": "Ilya Shabanov",
+    "url": "https://effortlessacademic.com/"
+  },
+  "plugins": [
+    {
+      "name": "academicskills",
+      "source": "./",
+      "description": "Claude Skills for Academic Use Cases",
+      "version": "1.0.0"
+    }
+  ]
+}

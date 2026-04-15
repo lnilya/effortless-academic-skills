@@ -1,0 +1,19 @@
+{
+  "name": "academicskills",
+  "version": "1.0.0",
+  "description": "Collection of academic skills based on effortlessacademic.com note taking ideas like atomic sentences.",
+  "author": {
+    "name": "Ilya Shabanov",
+    "url": "https://effortlessacademic.com/"
+  },
+  "repository": "https://github.com/lnilya/effortless-academic-skills",
+  "license": "MIT",
+  "keywords": [
+    "academia",
+    "academic writing",
+    "study",
+    "note-taking",
+    "pkm",
+    "notes"
+  ]
+}
