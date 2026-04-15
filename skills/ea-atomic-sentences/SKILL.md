@@ -28,7 +28,7 @@ This isn't summarization — it's structural decomposition. The output should be
 
 ## Step-by-step
 
-**If a PDF is provided**: focus on the introduction and discussion sections, as these contain the highest density of interpreted citations.
+**If a PDF is provided**: focus on the introduction and discussion sections, as these contain the highest density of interpreted citations. Importantly, always discard the references section to conserve your context.
 
 **If a topic/focus is given**: filter to citations relevant to that topic. Include others only if they're directly connected.
 
