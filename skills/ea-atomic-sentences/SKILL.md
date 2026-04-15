@@ -1,5 +1,5 @@
 ---
-name: atomic-sentences
+name: ea-atomic-sentences
 description: >
   Extracts atomic sentences from academic papers — identify every cited paper,
   compress each citation into a single logical claim, group them by sub-topic,
