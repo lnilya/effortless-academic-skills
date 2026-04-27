@@ -12,8 +12,6 @@ description: >
   Also trigger when the user is building a literature review and needs to understand
   what a specific study found and how its discussion situates the results in prior work.
   Do NOT use for review papers, detect these early and refuse gracefully (see below).
-  Always use this skill when a user uploads or pastes a research paper and wants results
-  extracted, even if they phrase it casually like "what does this paper say it found".
 ---
 
 # EA Results Analyser
