@@ -5,6 +5,10 @@ You can download a tutorial PDF on how to install and use these skills here:
 
 https://effortlessacademic.com/ai-skills-for-academics
 
+## Instllation
+
+`npx skills add https://github.com/lnilya/effortless-academic-skills`
+
 ## List of available skills
 
 ### ea-academic-writer
