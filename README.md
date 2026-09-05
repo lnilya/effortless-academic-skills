@@ -20,6 +20,9 @@ Reads a paper (or pasted text) and compresses every cited reference into a singl
 ### ea-intro-planner
 Takes your source papers and turns them into a paragraph-by-paragraph blueprint for an academic introduction. It maps the literature, asks you to confirm the relevant thread, then designs a logical argument that leads to your research gap — without writing a single word of prose itself. Pairs naturally with ea-academic-writer for the actual drafting.
 
+### ea-connected-vault-setup
+Turns a large, sparsely connected Obsidian vault into a light topic hierarchy without rewriting its notes. It proposes topic roots, assigns each note a `Parents` list, creates a live Base view of each root's children, and adds only discourse-advancing inline links after scoring their relevance, precision, and reader value.
+
 ### ea-obsidian-world-builder
 Transforms a collection of academic PDFs into a Wikipedia-style Obsidian knowledge network. Extracts key concepts from each paper, deduplicates them across the corpus, and generates one interlinked concept note per topic — each populated with cited atomic sentences and wikilinks. Also supports an Expand mode for adding new papers to an existing vault.
 
