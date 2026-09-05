@@ -1,0 +1,4 @@
+interface:
+  display_name: "EA Connected Vault Setup"
+  short_description: "Cluster and cross-link a sparse Markdown vault"
+  default_prompt: "Use $ea-connected-vault-setup to organize this vault into topic roots and connect its notes."

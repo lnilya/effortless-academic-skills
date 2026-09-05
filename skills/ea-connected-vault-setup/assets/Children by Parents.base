@@ -1,0 +1,14 @@
+filters: 'Parents.contains(this.file)'
+properties:
+  file.name:
+    displayName: Note
+  Parents:
+    displayName: Parents
+  Related:
+    displayName: Related
+views:
+  - type: table
+    name: Children
+    order:
+      - file.name
+      - Related
